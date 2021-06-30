@@ -1,0 +1,11 @@
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\obj\Debug\WcfClient.csprojAssemblyReference.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\obj\Debug\WcfClient.csproj.CopyComplete
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\MainLibrary.dll
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\MainLibrary.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfClient\bin\Debug\MainLibrary.dll.config

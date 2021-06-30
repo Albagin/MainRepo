@@ -1,0 +1,14 @@
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\obj\Debug\MainLibrary.csprojAssemblyReference.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\obj\Debug\MainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\MainLibrary.dll.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\MainLibrary.dll
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\MainLibrary.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Monitor.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Projekt zaliczeniowy.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Projekt zaliczeniowy.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Projekt zaliczeniowy.exe.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Monitor.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\bin\Debug\Monitor.exe.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\obj\Debug\MainLibrary.csproj.CopyComplete
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\obj\Debug\MainLibrary.dll
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\MainLibrary\obj\Debug\MainLibrary.pdb

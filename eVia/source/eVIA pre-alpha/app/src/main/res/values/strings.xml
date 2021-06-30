@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">eVia</string>
+    <string name="facebook_app_id">1212269835629460</string>
+    <string name="fb_login_protocol_scheme">fb1212269835629460</string>
+    <string name="evia">eVia</string>
+    <string name="pasa_er">PASSENGER</string>
+    <string name="kierowca">DRIVER</string>
+    <string name="textview">TextView</string>
+
+    <string name="title_activity_maps">eVia</string>
+    <string name="you_have_found_a_driver">You have found a driver!</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="search_for_driver">Search for driver</string>
+    <string name="Passenger_found">You have found the driver!</string>
+    <string name="Cannot_find_driver">Cannot find the driver!</string>
+    <string name="public_transport">Would you like to go using public transport instead?</string>
+    <string name="action_settings">Action settings</string>
+    <string name="guzik">Button</string>
+    <string name="end_course">End Course</string>
+    <string name="end_course_title">Ending current course</string>
+    <string name="end_course_msg">You have been asked to end current course.</string>
+    <string name="agree">Agree</string>
+    <string name="decline">Decline</string>
+    <string name="standby">Please stand by…</string>
+    <string name="cancel_course">Cancel Course</string>
+    <string name="partner_rate">Please rate your partner!</string>
+    <string name="no_rate">New User</string>
+    <string name="in_course_with">You are in course! Going with </string>
+    <string name="fail">Fail</string>
+    <string name="canceled">Canceled</string>
+    <string name="log_exception01">Couldn\'t write to file</string>
+    <string name="log_exception02">Cannot find the file</string>
+    <string name="marka">Marka</string>
+    <string name="Registration">Registration</string>
+    <string name="Color">Color</string>
+    <string name="add">Add</string>
+    <string name="edit_car">Edit car</string>
+    <string name="remove_car">Remove car</string>
+    <string name="mark_as_default">Mark as Default</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="empty_rating">Rating: none</string>
+    <string name="rating">\"Rating: \"</string>
+    <string name="driver_mode">Role: driver</string>
+    <string name="ocena">Ocena</string>
+    <string name="name_surname">Name and Surname</string>
+    <string name="role_driver_passenger">Role: driver / passenger</string>
+    <string name="car_data">Car Data</string>
+    <string name="defaultcar">DefaultCar</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="my_cars">My cars</string>
+    <string name="switch_role">Switch role</string>
+    <string name="myprofile">MyProfile</string>
+    <string name="select_color">Select color</string>
+    <string name="brand">Brand</string>
+    <string name="base_title">Base Title</string>
+    <string name="driver_name">Driver name</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="czas">czas</string>
+    <string name="dystans">dystans</string>
+    <string name="lokacja">lokacja</string>
+
+    <string-array name="marka">
+        <item>Opel</item>
+        <item>Audi</item>
+        <item>Volkswagen</item>
+        <item>Fiat</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>BMW</item>
+        <item>Citroen</item>
+        <item>Taczka</item>
+        <item>inne</item>
+    </string-array>
+</resources>

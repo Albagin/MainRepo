@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:layout_gravity="top"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <!-- miejsce w którym są pola tekstowe i guziki -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/top_layout"
+        android:background="#ffa500"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <!-- obszar z polami tekstowymi nazwa i kolor samochodu -->
+        <LinearLayout
+            android:id="@+id/name_color_text"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="70dp"
+            android:layout_gravity="top"
+            android:weightSum="1.0"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/car_options_dialog_name"
+                android:layout_height="40dp"
+                android:layout_width="0dp"
+                android:layout_weight=".5"
+                android:autoSizeTextType="uniform"
+                android:gravity="center"
+                android:text="@string/brand"/>
+
+            <TextView
+                android:id="@+id/color_car"
+                android:layout_height="40dp"
+                android:layout_width="0dp"
+                android:layout_weight=".37"
+                android:gravity="end"
+                android:layout_marginStart="10dp"
+                android:autoSizeTextType="uniform"
+                android:text="@string/Color"/>
+
+            <LinearLayout
+                android:id="@+id/car_options_dialog_color"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/color_round_view"
+                android:orientation="horizontal"/>
+
+        </LinearLayout>
+
+        <!-- obszar z polem tekstowym nr. rejestracyjny samochodu -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/car_options_dialog_number"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:autoSizeTextType="uniform"
+                android:gravity="center"
+                android:text="@string/Registration"/>
+
+        </LinearLayout>
+
+        <!-- obszar z guzikami -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/remove_car_dialog_button"
+                android:layout_height="match_parent"
+                android:layout_width="50dp"
+                android:src="@drawable/ic_car_delete"
+                android:layout_marginEnd="15dp">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/edit_car_dialog_button"
+                android:layout_height="match_parent"
+                android:layout_width="50dp"
+                android:src="@drawable/ic_car_edit"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/mark_as_default_dialog_button"
+                android:layout_height="match_parent"
+                android:layout_width="50dp"
+                android:src="@drawable/ic_car_default"
+                android:layout_marginEnd="15dp">
+
+            </ImageView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <!-- obszar z ramką i obrazkiem -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+
+        <!-- ramka do obrazka, a raczej tło, które przykrywa obrazek -->
+        <LinearLayout
+            android:layout_width="180dp"
+            android:layout_height="180dp"
+            android:background="#ffa500"
+            android:gravity="center">
+
+            <!-- obrazek samochodu -->
+            <ImageView
+                android:id="@+id/car_options_car_image"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:background="#ffffff"
+                android:src="@drawable/ic_photo"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

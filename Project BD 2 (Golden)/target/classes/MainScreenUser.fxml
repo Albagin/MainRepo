@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="537.0" prefWidth="940.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="albag98.MainScreenUserController">
+   <children>
+      <Label layoutX="276.0" layoutY="14.0" text="Your account">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="285.0" layoutY="99.0" prefHeight="17.0" prefWidth="192.0" text="Your current books">
+         <font>
+            <Font name="System Italic" size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="browse" layoutX="766.0" layoutY="177.0" mnemonicParsing="false" onAction="#browseStock" prefHeight="30.0" prefWidth="136.0" text="Browse Stock">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="848.0" layoutY="479.0" mnemonicParsing="false" onAction="#log_out" text="Log out">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TableView fx:id="tableView" layoutX="21.0" layoutY="141.0" prefHeight="368.0" prefWidth="720.0">
+        <columns>
+          <TableColumn fx:id="TitleColumn" prefWidth="181.00001525878906" text="Title" />
+            <TableColumn fx:id="PublisherColumn" prefWidth="96.0" text="Publisher" />
+            <TableColumn fx:id="GenreColumn" prefWidth="119.0" text="Genre" />
+            <TableColumn fx:id="DateColumn" prefWidth="156.0" text="Date of Release" />
+            <TableColumn fx:id="CreationColumn" minWidth="0.0" prefWidth="167.0" text="Date of Acquisition" />
+        </columns>
+      </TableView>
+      <Button layoutX="766.0" layoutY="313.0" mnemonicParsing="false" onAction="#refresh" prefHeight="25.0" prefWidth="136.0" text="Refresh" />
+      <Button  layoutX="766.0" layoutY="217.0" mnemonicParsing="false" onAction="#editPersonals" prefHeight="30.0" prefWidth="136.0" text="Edit Personals">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button  layoutX="766.0" layoutY="254.0" mnemonicParsing="false" onAction="#passChange" prefHeight="30.0" prefWidth="136.0" text="Change Password">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

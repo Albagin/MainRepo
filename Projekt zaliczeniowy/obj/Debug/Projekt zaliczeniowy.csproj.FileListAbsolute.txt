@@ -1,0 +1,14 @@
+F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe.config
+F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe
+F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.pdb
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy.csprojAssemblyReference.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\MainWindow.g.cs
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\App.g.cs
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy_MarkupCompile.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy_MarkupCompile.lref
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\MainWindow.baml
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy.g.resources
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt_zaliczeniowy.Properties.Resources.resources
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy.csproj.GenerateResource.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy.exe
+F:\VisualStudioProjects\Projekt zaliczeniowy\obj\Debug\Projekt zaliczeniowy.pdb

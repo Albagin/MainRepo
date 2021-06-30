@@ -1,0 +1,112 @@
+﻿Instalowanie zestawu 'F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe
+Wycofywanie zestawu 'F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe
+Podczas fazy wycofywania instalatora System.ServiceProcess.ServiceProcessInstaller wystąpił wyjątek.
+System.NullReferenceException: Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+Podczas fazy wycofywania instalacji wystąpił wyjątek. Wyjątek ten zostanie zignorowany, a wycofywanie będzie kontynuowane. Jednak po ukończeniu wycofywania komputer może nie powrócić całkowicie do stanu początkowego.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Usługa MonitorService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Zatwierdzanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Instalowanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Trwa instalowanie usługi MonitorService...
+Trwa tworzenie źródła EventLog MonitorService w dzienniku Application...
+Wycofywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła MonitorService.
+Odinstalowywanie zestawu 'C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   assemblypath = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+   logfile = C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.InstallLog
+Usuwanie źródła EventLog MonitorService.
+Trwa usuwanie usługi MonitorService z systemu...
+Usługa MonitorService została pomyślnie usunięta z systemu.

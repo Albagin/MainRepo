@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.username">thin</property>
+        <property name="connection.password">thinpassword</property>
+        <property name="connection.url">jdbc:mariadb://localhost:3306/eVia</property>
+        <property name="connection.driver_class">org.mariadb.jdbc.Driver</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MariaDB103Dialect</property>
+        <mapping resource="mappingConfigs/CarEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/CourseEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/DriverPositionEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/PathEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/RequestsEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/ScoresEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/UserEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/RequestsEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/QuestionsEntity.hbm.xml"/>
+        <mapping resource="mappingConfigs/PhotoEntity.hbm.xml"/>
+
+
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+    </session-factory>
+</hibernate-configuration>

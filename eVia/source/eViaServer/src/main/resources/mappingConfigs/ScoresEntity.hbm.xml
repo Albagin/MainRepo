@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entities.ScoresEntity" table="scores" schema="eVia">
+        <id name="id">
+            <column name="ID" sql-type="int(11)"/>
+            <generator class="native"/>
+        </id>
+        <property name="score">
+            <column name="Score" sql-type="int(1)" not-null="true"/>
+        </property>
+        <property name="role">
+            <column name="Role" sql-type="varchar(1)" not-null="true"/>
+            <type name="org.hibernate.type.EnumType">
+                <param name="enumClass">enums.UserType</param>
+                <param name="useNamed">true</param>
+            </type>
+        </property>
+        <property name="userId">
+            <column name="user_ID" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="courseId">
+            <column name="course_ID" sql-type="int(11)" not-null="true"/>
+        </property>
+    </class>
+</hibernate-mapping>

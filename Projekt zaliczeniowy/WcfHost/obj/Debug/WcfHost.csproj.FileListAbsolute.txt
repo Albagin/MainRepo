@@ -1,0 +1,11 @@
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\WcfHost.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\WcfHost.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\obj\Debug\WcfHost.csproj.CopyComplete
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\obj\Debug\WcfHost.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\obj\Debug\WcfHost.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\MainLibrary.dll
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\MainLibrary.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\bin\Debug\MainLibrary.dll.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\WcfHost\obj\Debug\WcfHost.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Aleksander\source\repos\Generator\bin\Debug\Generator.exe.config
+C:\Users\Aleksander\source\repos\Generator\bin\Debug\Generator.exe
+C:\Users\Aleksander\source\repos\Generator\bin\Debug\Generator.pdb
+C:\Users\Aleksander\source\repos\Generator\obj\Debug\Generator.csprojAssemblyReference.cache
+C:\Users\Aleksander\source\repos\Generator\obj\Debug\Generator.exe
+C:\Users\Aleksander\source\repos\Generator\obj\Debug\Generator.pdb

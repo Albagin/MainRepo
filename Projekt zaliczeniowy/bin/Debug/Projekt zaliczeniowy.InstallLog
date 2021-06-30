@@ -1,0 +1,13 @@
+﻿Instalowanie zestawu 'F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.InstallLog
+   assemblypath = F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe.
+Zatwierdzanie zestawu 'F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.InstallLog
+   assemblypath = F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe
+Nie można znaleźć instalatorów publicznych z atrybutem RunInstallerAttribute.Yes w zestawie F:\VisualStudioProjects\Projekt zaliczeniowy\bin\Debug\Projekt zaliczeniowy.exe.
+Usuwanie pliku InstallState z powodu braku instalatorów.

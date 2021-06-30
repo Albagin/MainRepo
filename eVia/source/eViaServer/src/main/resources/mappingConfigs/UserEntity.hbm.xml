@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entities.UserEntity" table="user" schema="eVia">
+        <id name="id">
+            <column name="ID" sql-type="int(11)"/>
+            <generator class="native"/>
+        </id>
+        <property name="name">
+            <column name="Name" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="surname">
+            <column name="Surname" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="email">
+            <column name="Email" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="login">
+            <column name="Login" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="lastUserType">
+            <column name="LastUserType" sql-type="varchar(1)" length="1" not-null="true"/>
+            <type name="org.hibernate.type.EnumType">
+                <param name="enumClass">enums.UserType</param>
+                <param name="useNamed">true</param>
+            </type>
+        </property>
+        <property name="admin">
+            <column name="Admin" sql-type="tinyint(1)" not-null="true"/>
+        </property>
+        <property name="ocenaKierowca">
+            <column name="Ocena_kierowca" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="ocenaPasazer">
+            <column name="ocena_pasazer" sql-type="double" precision="-1" not-null="false"/>
+        </property>
+        <property name="podwozkiKierowca">
+            <column name="Podwozki_kierowca" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="podwozkiPasazer">
+            <column name="Podwozki_pasazer" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="fbId">
+            <column name="fbid" sql-type="int(11)" not-null="true"/>
+        </property>
+    </class>
+</hibernate-mapping>

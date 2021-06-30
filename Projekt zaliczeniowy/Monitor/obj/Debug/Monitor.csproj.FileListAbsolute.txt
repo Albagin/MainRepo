@@ -1,0 +1,28 @@
+F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe.config
+F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.exe
+F:\VisualStudioProjects\Monitor\bin\Debug\Monitor.pdb
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.exe
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.pdb
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.MonitorService.resources
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.ProjectInstaller.resources
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+F:\VisualStudioProjects\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe.config
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.pdb
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.MonitorService.resources
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.ProjectInstaller.resources
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.exe
+F:\VisualStudioProjects\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.MonitorService.resources
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.ProjectInstaller.resources
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.exe
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.pdb
+C:\Users\Aleksander\Repositories\BaseRep\Projekt zaliczeniowy\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache

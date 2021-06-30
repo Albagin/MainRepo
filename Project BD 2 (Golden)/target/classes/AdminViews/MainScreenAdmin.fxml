@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="albag98.AdminControllers.MainScreenAdminController">
+   <children>
+      <Label layoutX="195.0" layoutY="14.0" text="Administration">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button layoutX="42.0" layoutY="150.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="191.0" text="Administrate Books" fx:id="addBook" onAction="#browse">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="518.0" layoutY="356.0" mnemonicParsing="false" onAction="#logOut" text="Log out">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="42.0" layoutY="286.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="191.0" text="Administrate Users" onAction="#users">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="42.0" layoutY="240.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="191.0" text="Administrate Authors" onAction="#authors">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="42.0" layoutY="194.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="191.0" text="Administrate Orders" onAction="#orders">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entities.DriverPositionEntity" table="driverPosition" schema="eVia">
+        <id name="id">
+            <column name="ID" sql-type="int(11)"/>
+            <generator class="native"/>
+        </id>
+        <property name="pointLat">
+            <column name="pointLat" sql-type="double" precision="-1" not-null="true"/>
+        </property>
+        <property name="PointLng">
+            <column name="PointLng" sql-type="double" precision="-1" not-null="true"/>
+        </property>
+        <property name="time">
+            <column name="Time" sql-type="datetime" not-null="true"/>
+        </property>
+        <property name="Status">
+            <column name="Status" sql-type="varchar(10)" length="10" not-null="true"/>
+            <type name="org.hibernate.type.EnumType">
+                <param name="enumClass">enums.DriverStatus</param>
+                <param name="useNamed">true</param>
+            </type>
+        </property>
+        <property name="userId">
+            <column name="user_ID" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="direction">
+            <column name="direction" sql-type="double" precision="-1" not-null="true"/>
+        </property>
+    </class>
+</hibernate-mapping>

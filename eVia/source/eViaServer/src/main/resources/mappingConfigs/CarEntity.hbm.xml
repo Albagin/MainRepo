@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entities.CarEntity" table="car" schema="eVia">
+        <id name="id">
+            <column name="ID" sql-type="int(11)"/>
+            <generator class="native"/>
+        </id>
+        <property name="registration">
+            <column name="Registration" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="brand">
+            <column name="Brand" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="color">
+            <column name="Color" sql-type="varchar(45)" length="45" not-null="true"/>
+        </property>
+        <property name="userId">
+            <column name="user_ID" sql-type="int(11)" not-null="true"/>
+        </property>
+        <property name="isDefault">
+            <column name="Is_default" sql-type="tinyint(1)" not-null="true"/>
+        </property>
+        <property name="photoId">
+            <column name="photo_ID" sql-type="int(11)" not-null="false"/>
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,10 @@
+source/eViaServer/.idea/*
+knowlage/POC's/Connecting to DB (Hibernate)/pocHibernate/.idea/*
+source/eViaServer/target/
+source/eViaServer/target/*
+*.class
+*.jar
+*.log
+source/eViaServer/logs/*
+source/eViaServer/out/
+source/eViaServer/out/*

@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="albagin98.loginfb"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:5:5-66
+11-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:6:5-37:19
+14        android:allowBackup="true"
+14-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\f01b27bb220ecb79298884ef36a7a2fb\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:12:9-40
+23        <activity android:name="albagin98.loginfb.MainActivity" >
+23-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:13:9-19:20
+23-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:13:19-47
+24            <intent-filter>
+24-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:15:17-69
+25-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:17:17-77
+27-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <meta-data
+31-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:20:9-21:54
+32            android:name="com.facebook.sdk.ApplicationId"
+32-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:20:20-65
+33            android:value="@string/facebook_app_id" />
+33-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:21:13-52
+34
+35        <activity
+35-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:23:9-26:48
+36            android:name="com.facebook.FacebookActivity"
+36-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:23:19-63
+37            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+37-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:24:13-114
+38            android:label="@string/app_name"
+38-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:26:13-45
+39            android:theme="@style/com_facebook_activity_theme" />
+39-->[com.facebook.android:facebook-common:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\6f5adec9dbd473071b1d146fdc4d50ee\jetified-facebook-common-5.13.0\AndroidManifest.xml:32:13-63
+40        <activity
+40-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:27:9-36:20
+41            android:name="com.facebook.CustomTabActivity"
+41-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:28:13-58
+42            android:exported="true" >
+42-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:29:13-36
+43            <intent-filter>
+43-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:30:13-35:29
+44                <action android:name="android.intent.action.VIEW" />
+44-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:31:17-69
+44-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:31:25-66
+45
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:32:17-76
+46-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:32:27-73
+47                <category android:name="android.intent.category.BROWSABLE" />
+47-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:33:17-78
+47-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:33:27-75
+48
+49                <data android:scheme="@string/fb_login_protocol_scheme" />
+49-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:34:17-75
+49-->E:\git\eVia\knowlage\POC's\LoginFB\app\src\main\AndroidManifest.xml:34:23-72
+50            </intent-filter>
+51        </activity>
+52        <activity android:name="com.facebook.CustomTabMainActivity" />
+52-->[com.facebook.android:facebook-common:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\6f5adec9dbd473071b1d146fdc4d50ee\jetified-facebook-common-5.13.0\AndroidManifest.xml:33:9-71
+52-->[com.facebook.android:facebook-common:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\6f5adec9dbd473071b1d146fdc4d50ee\jetified-facebook-common-5.13.0\AndroidManifest.xml:33:19-68
+53        <!--
+54         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+55         with the application context. This config is merged in with the host app's manifest,
+56         but there can only be one provider with the same authority activated at any given
+57         point; so if the end user has two or more different apps that use Facebook SDK, only the
+58         first one will be able to use the provider. To work around this problem, we use the
+59         following placeholder in the authority to identify each host application as if it was
+60         a completely different provider.
+61        -->
+62        <provider
+62-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:39:9-42:40
+63            android:name="com.facebook.internal.FacebookInitProvider"
+63-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:40:13-70
+64            android:authorities="albagin98.loginfb.FacebookInitProvider"
+64-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:41:13-72
+65            android:exported="false" />
+65-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:42:13-37
+66
+67        <receiver
+67-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:44:9-50:20
+68            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+68-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:45:13-86
+69            android:exported="false" >
+69-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:46:13-37
+70            <intent-filter>
+70-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:47:13-49:29
+71                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+71-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:48:17-95
+71-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:48:25-92
+72            </intent-filter>
+73        </receiver>
+74        <receiver
+74-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:51:9-58:20
+75            android:name="com.facebook.CampaignTrackingReceiver"
+75-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:52:13-65
+76            android:exported="true"
+76-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:53:13-36
+77            android:permission="android.permission.INSTALL_PACKAGES" >
+77-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:54:13-69
+78            <intent-filter>
+78-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:55:13-57:29
+79                <action android:name="com.android.vending.INSTALL_REFERRER" />
+79-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:56:17-79
+79-->[com.facebook.android:facebook-core:5.13.0] C:\Users\kawi1\.gradle\caches\transforms-2\files-2.1\201ff38103a635a2415da072e5de3358\jetified-facebook-core-5.13.0\AndroidManifest.xml:56:25-76
+80            </intent-filter>
+81        </receiver>
+82    </application>
+83
+84</manifest>

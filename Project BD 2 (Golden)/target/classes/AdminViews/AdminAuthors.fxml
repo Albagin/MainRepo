@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="505.0" prefWidth="818.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="albag98.AdminControllers.AdminAuthorsController">
+   <children>
+      <TableView fx:id="tableView" layoutX="14.0" layoutY="14.0" prefHeight="406.0" prefWidth="578.0">
+         <columns>
+            <TableColumn fx:id="IdColumn" prefWidth="92.00001525878906" text="Author Id" />
+            <TableColumn fx:id="NameColumn" prefWidth="180.0" text="Name" />
+            <TableColumn fx:id="SurnameColumn" minWidth="0.0" prefWidth="149.0" text="Surname" />
+            <TableColumn fx:id="CountryColumn" prefWidth="155.0" text="Country" />
+         </columns></TableView>
+      <Button fx:id="button" layoutX="696.0" layoutY="457.0" mnemonicParsing="false" onAction="#back" prefHeight="25.0" prefWidth="78.0" text="Back" />
+      <Label fx:id="label" alignment="CENTER" layoutX="604.0" layoutY="373.0" prefHeight="47.0" prefWidth="184.0" />
+      <Button layoutX="610.0" layoutY="40.0" mnemonicParsing="false" onAction="#addAuthor" prefHeight="25.0" prefWidth="118.0" text="Add New Author" />
+      <Button layoutX="610.0" layoutY="78.0" mnemonicParsing="false" onAction="#editAuthor" prefHeight="25.0" prefWidth="118.0" text="Edit Author" />
+      <Button layoutX="610.0" layoutY="119.0" mnemonicParsing="false" onAction="#deleteAuthor" prefHeight="25.0" prefWidth="118.0" text="Delete Author" />
+
+      <Button fx:id="pButton" disable="true" layoutX="657.0" layoutY="416.0" mnemonicParsing="false" onAction="#prev" text="Prev" />
+      <Button fx:id="nButton" layoutX="708.0" layoutY="416.0" mnemonicParsing="false" onAction="#next" text="Next" />
+      <TextField fx:id="nameSearch" layoutX="57.0" layoutY="457.0" />
+      <TextField fx:id="surnameSearch" layoutX="231.0" layoutY="457.0" />
+      <TextField fx:id="countrySearch" layoutX="402.0" layoutY="457.0" />
+      <Button layoutX="610.0" layoutY="160.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="118.0" text="Refresh" onAction="#refresh" />
+      <Label alignment="CENTER" layoutX="57.0" layoutY="428.0" prefHeight="17.0" prefWidth="149.0" text="Search with Name">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="231.0" layoutY="426.0" prefHeight="17.0" prefWidth="149.0" text="Search with Surname">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER" layoutX="402.0" layoutY="426.0" prefHeight="17.0" prefWidth="149.0" text="Search with Country">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
